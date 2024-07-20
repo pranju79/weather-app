@@ -3,11 +3,11 @@
 This Flutter project is designed to provide users with a seamless onboarding experience, followed by login and registration functionality. After successful login, the app displays the user's current location weather details using the OpenWeather API. The app is developed using the Bloc pattern and integrates various dependencies for functionality. Additionally, the app is responsive and works across all device sizes.
 
 • Features
-Onboarding Pages
-User Authentication (Login and Registration)
-Weather Information of User's Current Location
-Location Services Integration
-Responsive Design for All Devices
+ Onboarding Pages
+ User Authentication (Login and Registration)
+ Weather Information of User's Current Location
+ Location Services Integration
+ Responsive Design for All Devices
 
 • Dependencies
 The following dependencies are used in this project:
