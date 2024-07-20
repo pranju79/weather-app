@@ -15,7 +15,7 @@ This Flutter project is designed to provide users with a seamless onboarding exp
 Installation
 1. Clone the repository:
 <br/>git clone https://github.com/pranju79/weather-app.git
-<br/>cd weather_app
+<br/>cd weather-app
 
 2. Install the dependencies:
 <br/>flutter pub get
